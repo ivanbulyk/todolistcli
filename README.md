@@ -1,7 +1,7 @@
 # todolistcli
 
 Yet another TODO List App but in form of CLI:)<br>
-With persistence in the plain file, ust for the sake of simplicity
+With persistence in the plain file, just for the sake of simplicity
 
 To run app:
 
